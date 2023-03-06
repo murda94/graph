@@ -1,0 +1,17 @@
+#-f https://data.pyg.org/whl/torch-1.10.0+cu113.html torch-scatter #torch-1.10.0+cu111 for sagemaker notebook
+#-f https://data.pyg.org/whl/torch-1.10.0+cu113.html torch-sparse #torch-1.10.0+cu111 for sagemaker notebook
+#torch-geometric
+torch-geometric-temporal
+pytorch-lightning
+#rnd-geoutils
+
+geopy
+neptune-client
+torchmetrics
+tensorboard
+fairscale
+setuptools
+timm
+six
+
+toma
